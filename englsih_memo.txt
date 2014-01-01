@@ -1,5 +1,5 @@
  I found out today that there also is a package called ruby1.9.3 however 
  that is just a proxy package that doesn't have any files itself.
-                      this is  a XXX that “®ŽŒ 
+                      this is a XXX that "verbs"
                       
 7.Leave all the details for the activity in their default state and click Finish.
